@@ -3,3 +3,5 @@ Playlist of Songs
 All Star
 Animals
 Black and Yellow
+Dynamite
+Hello World
